@@ -9,7 +9,7 @@ jobs:
             - name: clone repogitory
               run: |
                 git clone https://github.com/haru0820/python_github_actions
-                cd python_github_acytions
+                cd python_github_actions
 
             - name: install pytest
               run: pip install pytest
