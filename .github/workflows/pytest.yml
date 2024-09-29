@@ -15,6 +15,3 @@ jobs:
               run: pip install pytest
             - name: run pytest
               run: pytest
-
-
-
